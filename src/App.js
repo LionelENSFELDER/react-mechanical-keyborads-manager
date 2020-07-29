@@ -1,6 +1,6 @@
 import React from 'react';
 // import logo from './logo.svg';
-import Keyboard from './Keyboard';
+import Keyboard from './components/Keyboard';
 import './App.css';
 
 function App() {
